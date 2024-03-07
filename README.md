@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @plukowicz
+- 👀 I’m interested in information management, databases, shell, music and literature
+- 🌱 I’m currently learning Python, SQL and Git
+- 📫 How to reach me: plukowicz1@gmail.com  
+- 😄 Pronouns: He/Him/His
